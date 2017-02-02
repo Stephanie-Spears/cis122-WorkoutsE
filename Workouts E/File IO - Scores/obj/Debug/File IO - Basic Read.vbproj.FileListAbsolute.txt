@@ -1,0 +1,14 @@
+G:\CIS122\Projects\Visual Basic\File IO - Basic Read\bin\Debug\ProjectStart.exe.config
+G:\CIS122\Projects\Visual Basic\File IO - Basic Read\bin\Debug\ProjectStart.exe
+G:\CIS122\Projects\Visual Basic\File IO - Basic Read\bin\Debug\ProjectStart.pdb
+G:\CIS122\Projects\Visual Basic\File IO - Basic Read\bin\Debug\ProjectStart.xml
+G:\CIS122\Projects\Visual Basic\File IO - Basic Read\obj\Debug\ProjectStart.frmMain.resources
+G:\CIS122\Projects\Visual Basic\File IO - Basic Read\obj\Debug\ProjectStart.Resources.resources
+G:\CIS122\Projects\Visual Basic\File IO - Basic Read\obj\Debug\File IO - Basic Read.vbproj.GenerateResource.Cache
+G:\CIS122\Projects\Visual Basic\File IO - Basic Read\obj\Debug\ProjectStart.exe
+G:\CIS122\Projects\Visual Basic\File IO - Basic Read\obj\Debug\ProjectStart.xml
+G:\CIS122\Projects\Visual Basic\File IO - Basic Read\obj\Debug\ProjectStart.pdb
+G:\CIS122\Projects\Visual Basic\File IO - Scores\bin\Debug\ProjectStart.exe.config
+G:\CIS122\Projects\Visual Basic\File IO - Scores\obj\Debug\ProjectStart.exe
+G:\CIS122\Projects\Visual Basic\File IO - Scores\obj\Debug\ProjectStart.xml
+G:\CIS122\Projects\Visual Basic\File IO - Scores\obj\Debug\ProjectStart.pdb

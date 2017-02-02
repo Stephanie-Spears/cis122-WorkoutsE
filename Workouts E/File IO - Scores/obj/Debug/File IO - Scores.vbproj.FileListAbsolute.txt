@@ -1,0 +1,31 @@
+G:\CIS122\Projects\Visual Basic\File IO - Scores\bin\Debug\ProjectStart.exe.config
+G:\CIS122\Projects\Visual Basic\File IO - Scores\bin\Debug\ProjectStart.exe
+G:\CIS122\Projects\Visual Basic\File IO - Scores\bin\Debug\ProjectStart.pdb
+G:\CIS122\Projects\Visual Basic\File IO - Scores\bin\Debug\ProjectStart.xml
+G:\CIS122\Projects\Visual Basic\File IO - Scores\obj\Debug\ProjectStart.frmMain.resources
+G:\CIS122\Projects\Visual Basic\File IO - Scores\obj\Debug\ProjectStart.Resources.resources
+G:\CIS122\Projects\Visual Basic\File IO - Scores\obj\Debug\File IO - Scores.vbproj.GenerateResource.Cache
+G:\CIS122\Projects\Visual Basic\File IO - Scores\obj\Debug\ProjectStart.exe
+G:\CIS122\Projects\Visual Basic\File IO - Scores\obj\Debug\ProjectStart.xml
+G:\CIS122\Projects\Visual Basic\File IO - Scores\obj\Debug\ProjectStart.pdb
+G:\Teaching\CIS122\Projects\Visual Basic\File IO - Scores\bin\Debug\ProjectStart.exe.config
+G:\Teaching\CIS122\Projects\Visual Basic\File IO - Scores\obj\Debug\ProjectStart.exe
+G:\Teaching\CIS122\Projects\Visual Basic\File IO - Scores\obj\Debug\ProjectStart.xml
+G:\Teaching\CIS122\Projects\Visual Basic\File IO - Scores\obj\Debug\ProjectStart.pdb
+G:\Teaching\CIS122\Projects\Visual Basic\File IO - Scores\bin\Debug\ProjectStart.exe
+G:\Teaching\CIS122\Projects\Visual Basic\File IO - Scores\bin\Debug\ProjectStart.pdb
+G:\Teaching\CIS122\Projects\Visual Basic\File IO - Scores\bin\Debug\ProjectStart.xml
+G:\Teaching\CIS122\Projects\Visual Basic\File IO - Scores\obj\Debug\ProjectStart.frmMain.resources
+G:\Teaching\CIS122\Projects\Visual Basic\File IO - Scores\obj\Debug\ProjectStart.Resources.resources
+G:\Teaching\CIS122\Projects\Visual Basic\File IO - Scores\obj\Debug\File IO - Scores.vbproj.GenerateResource.Cache
+C:\Users\Stephanie\Desktop\CIS 122\Workouts\Workouts E\Workouts E\File IO - Scores\bin\Debug\ProjectStart.exe.config
+C:\Users\Stephanie\Desktop\CIS 122\Workouts\Workouts E\Workouts E\File IO - Scores\obj\Debug\ProjectStart.exe
+C:\Users\Stephanie\Desktop\CIS 122\Workouts\Workouts E\Workouts E\File IO - Scores\obj\Debug\ProjectStart.xml
+C:\Users\Stephanie\Desktop\CIS 122\Workouts\Workouts E\Workouts E\File IO - Scores\obj\Debug\ProjectStart.pdb
+C:\Users\Stephanie\Desktop\CIS 122\Workouts\Workouts E\Workouts E\File IO - Scores\bin\Debug\ProjectStart.exe
+C:\Users\Stephanie\Desktop\CIS 122\Workouts\Workouts E\Workouts E\File IO - Scores\bin\Debug\ProjectStart.pdb
+C:\Users\Stephanie\Desktop\CIS 122\Workouts\Workouts E\Workouts E\File IO - Scores\bin\Debug\ProjectStart.xml
+C:\Users\Stephanie\Desktop\CIS 122\Workouts\Workouts E\Workouts E\File IO - Scores\obj\Debug\File IO - Scores.vbprojResolveAssemblyReference.cache
+C:\Users\Stephanie\Desktop\CIS 122\Workouts\Workouts E\Workouts E\File IO - Scores\obj\Debug\ProjectStart.frmMain.resources
+C:\Users\Stephanie\Desktop\CIS 122\Workouts\Workouts E\Workouts E\File IO - Scores\obj\Debug\ProjectStart.Resources.resources
+C:\Users\Stephanie\Desktop\CIS 122\Workouts\Workouts E\Workouts E\File IO - Scores\obj\Debug\File IO - Scores.vbproj.GenerateResource.Cache
